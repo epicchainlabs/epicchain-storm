@@ -98,10 +98,8 @@ epicchain compile -i path/to/file.go -o path/to/file.evm
 We welcome contributions from the community! Before contributing, please read our [contributing guidelines](https://github.com/epicchainlabs/epicchain/blob/master/CONTRIBUTING.md).
 
 # Contact
-- [@developer1](https://github.com/developer1) on GitHub
-- [@developer2](https://github.com/developer2) on GitHub
-- Join the discussion on the [EpicChain Discord](https://discordapp.com/invite/yourdiscordchannel)
-- Email us at: support@epicchainlabs.org
+- Join the discussion on the [EpicChain Discord](https://discord.com/invite/u7PmNUpSGg)
+- Email us at: support@epic-chain.org
 
 # License
 EpicChain is open-source and available under the MIT License.
